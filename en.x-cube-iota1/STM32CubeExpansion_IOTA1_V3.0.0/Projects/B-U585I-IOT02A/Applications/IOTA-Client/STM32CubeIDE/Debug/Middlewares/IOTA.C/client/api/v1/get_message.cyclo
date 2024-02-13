@@ -1,0 +1,16 @@
+../../../../../../Middlewares/Third_Party/uthash/utarray.h:236:13:utarray_str_cpy	3
+../../../../../../Middlewares/Third_Party/uthash/utarray.h:255:13:utarray_str_dtor	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:15:12:deser_milestone	7
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:58:12:deser_tx_indexation	5
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:75:12:deser_msg_indexation	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:94:12:deser_tx_inputs	14
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:148:12:deser_tx_outputs	17
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:208:12:deser_tx_blocks	13
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:269:12:deser_transaction	12
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:347:16:res_message_new	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:357:6:res_message_free	4
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:370:5:deser_get_message	20
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:456:5:get_message_by_id	8
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:505:8:get_message_milestone_signature_count	4
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:515:7:get_message_milestone_signature	6
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message.c:528:20:get_message_payload_type	3

@@ -1,0 +1,12 @@
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:42:5:temp_sensor_start	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:77:5:temp_sensor_stop	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:92:5:temp_sensor_read	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:107:5:press_sensor_start	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:142:5:press_sensor_stop	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:157:5:press_sensor_read	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:172:5:humid_sensor_start	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:208:5:humid_sensor_stop	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:223:5:humid_sensor_read	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:238:5:sensors_start	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:255:15:make_timestamp	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Sensors/sensors.c:278:5:sensor_data_to_json	3

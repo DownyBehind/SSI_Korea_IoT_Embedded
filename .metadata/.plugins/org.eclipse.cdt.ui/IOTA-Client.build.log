@@ -1,0 +1,10 @@
+16:21:14 **** Incremental Build of configuration Debug for project IOTA-Client ****
+make -j8 all 
+arm-none-eabi-size  IOTA-Client.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 663405	   2604	 418600	1084609	 108cc1	IOTA-Client.elf
+Finished building: default.size.stdout
+ 
+
+16:21:30 Build Finished. 0 errors, 0 warnings. (took 16s.98ms)
+

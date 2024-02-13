@@ -1,0 +1,5 @@
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/utils/iota_str.c:9:13:iota_str_new	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/utils/iota_str.c:28:6:iota_str_destroy	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/utils/iota_str.c:37:5:iota_str_appendn	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/utils/iota_str.c:58:13:iota_str_clonen	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/utils/iota_str.c:77:13:iota_str_reserve	3

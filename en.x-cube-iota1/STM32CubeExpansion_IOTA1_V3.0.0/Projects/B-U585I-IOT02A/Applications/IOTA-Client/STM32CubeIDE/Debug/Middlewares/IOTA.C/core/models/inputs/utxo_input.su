@@ -1,0 +1,9 @@
+../../../../../../Middlewares/Third_Party/IOTA_C/core/types.h:24:20:dump_hex	24	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/inputs/utxo_input.c:14:16:utxo_inputs_new	4	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/inputs/utxo_input.c:18:16:utxo_inputs_find_by_id	48	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/inputs/utxo_input.c:24:10:utxo_inputs_count	16	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/inputs/utxo_input.c:28:6:utxo_inputs_free	40	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/inputs/utxo_input.c:36:5:utxo_inputs_add_with_key	88	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/inputs/utxo_input.c:67:5:utxo_inputs_add	88	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/inputs/utxo_input.c:95:8:utxo_inputs_serialization	32	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/inputs/utxo_input.c:124:6:utxo_inputs_print	24	static

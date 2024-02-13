@@ -1,0 +1,7 @@
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/http_netxduo.c:21:6:NetXDuo_InitHooks	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/http_netxduo.c:30:13:http_response_body	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/http_netxduo.c:39:13:http_receive_response	7
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/http_netxduo.c:95:6:http_client_init	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/http_netxduo.c:97:6:http_client_clean	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/http_netxduo.c:99:5:http_client_get	7
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/http_netxduo.c:174:5:http_client_post	11

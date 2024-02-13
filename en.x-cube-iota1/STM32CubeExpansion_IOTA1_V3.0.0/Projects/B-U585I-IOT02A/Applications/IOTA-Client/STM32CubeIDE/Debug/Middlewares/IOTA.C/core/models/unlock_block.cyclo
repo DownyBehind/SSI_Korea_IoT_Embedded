@@ -1,0 +1,10 @@
+../../../../../../Middlewares/Third_Party/IOTA_C/core/types.h:24:20:dump_hex	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/unlock_block.c:17:18:unlock_blocks_new	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/unlock_block.c:19:5:unlock_blocks_add_signature	7
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/unlock_block.c:44:5:unlock_blocks_add_reference	5
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/unlock_block.c:66:8:unlock_blocks_serialize_length	5
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/unlock_block.c:91:8:unlock_blocks_serialize	4
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/unlock_block.c:119:10:unlock_blocks_count	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/unlock_block.c:128:9:unlock_blocks_find_pub	5
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/unlock_block.c:144:6:unlock_blocks_free	8
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/core/models/unlock_block.c:157:6:unlock_blocks_print	6

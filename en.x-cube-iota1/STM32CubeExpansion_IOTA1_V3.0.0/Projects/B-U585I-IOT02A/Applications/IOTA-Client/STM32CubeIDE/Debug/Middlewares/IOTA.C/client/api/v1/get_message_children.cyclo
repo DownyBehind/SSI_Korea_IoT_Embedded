@@ -1,0 +1,10 @@
+../../../../../../Middlewares/Third_Party/uthash/utarray.h:236:13:utarray_str_cpy	3
+../../../../../../Middlewares/Third_Party/uthash/utarray.h:255:13:utarray_str_dtor	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message_children.c:14:24:msg_children_new	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message_children.c:26:13:msg_children_free	7
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message_children.c:35:21:res_msg_children_new	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message_children.c:45:6:res_msg_children_free	4
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message_children.c:58:8:res_msg_children_len	4
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message_children.c:69:7:res_msg_children_get	4
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message_children.c:79:5:deser_msg_children	11
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_message_children.c:144:5:get_message_children	8

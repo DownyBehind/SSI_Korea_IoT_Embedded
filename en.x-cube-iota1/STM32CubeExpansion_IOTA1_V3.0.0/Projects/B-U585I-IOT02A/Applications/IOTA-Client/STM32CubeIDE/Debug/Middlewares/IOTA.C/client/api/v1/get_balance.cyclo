@@ -1,0 +1,6 @@
+../../../../../../Middlewares/Third_Party/uthash/utarray.h:236:13:utarray_str_cpy	3
+../../../../../../Middlewares/Third_Party/uthash/utarray.h:255:13:utarray_str_dtor	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_balance.c:15:16:res_balance_new	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_balance.c:25:6:res_balance_free	4
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_balance.c:38:5:deser_balance_info	10
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/Third_Party/IOTA_C/client/api/v1/get_balance.c:104:5:get_balance	9

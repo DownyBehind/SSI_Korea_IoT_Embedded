@@ -1,0 +1,11 @@
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:197:6:HAL_GPIO_Init	16
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:369:6:HAL_GPIO_DeInit	5
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:471:15:HAL_GPIO_ReadPin	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:505:6:HAL_GPIO_WritePin	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:529:6:HAL_GPIO_TogglePin	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:555:19:HAL_GPIO_LockPin	5
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:639:6:HAL_GPIO_EnableHighSPeedLowVoltage	5
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:697:6:HAL_GPIO_DisableHighSPeedLowVoltage	5
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:748:6:HAL_GPIO_EXTI_IRQHandler	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:769:13:HAL_GPIO_EXTI_Rising_Callback	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c:784:13:HAL_GPIO_EXTI_Falling_Callback	1

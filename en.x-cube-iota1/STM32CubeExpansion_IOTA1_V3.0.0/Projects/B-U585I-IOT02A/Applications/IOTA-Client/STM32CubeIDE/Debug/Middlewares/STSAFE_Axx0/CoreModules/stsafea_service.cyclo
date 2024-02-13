@@ -1,0 +1,8 @@
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/ST/STSAFE_Axx0/CoreModules/Src/stsafea_service.c:105:8:StSafeA_HW_Init	11
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/ST/STSAFE_Axx0/CoreModules/Src/stsafea_service.c:167:24:StSafeA_Transmit	6
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/ST/STSAFE_Axx0/CoreModules/Src/stsafea_service.c:209:24:StSafeA_Receive	9
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/ST/STSAFE_Axx0/CoreModules/Src/stsafea_service.c:270:6:StSafeA_Delay	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/ST/STSAFE_Axx0/CoreModules/Src/stsafea_service.c:304:15:StSafeA_HW_Probe	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/ST/STSAFE_Axx0/CoreModules/Src/stsafea_service.c:327:15:StSafeA_SendBytes	6
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/ST/STSAFE_Axx0/CoreModules/Src/stsafea_service.c:382:15:StSafeA_ReceiveBytes	11
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Middlewares/ST/STSAFE_Axx0/CoreModules/Src/stsafea_service.c:457:6:StSafeA_Crc16	2

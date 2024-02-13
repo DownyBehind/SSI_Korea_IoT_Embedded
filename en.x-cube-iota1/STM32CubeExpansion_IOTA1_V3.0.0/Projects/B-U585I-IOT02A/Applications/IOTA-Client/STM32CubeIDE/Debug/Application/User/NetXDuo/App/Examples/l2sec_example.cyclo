@@ -1,0 +1,17 @@
+../../../../../../Middlewares/Third_Party/IOTA_C/core/types.h:37:20:dump_hex_str	2
+../../../../../../Middlewares/Third_Party/uthash/utarray.h:236:13:utarray_str_cpy	3
+../../../../../../Middlewares/Third_Party/uthash/utarray.h:255:13:utarray_str_dtor	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:199:12:iota_l2sec_wrap	4
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:459:12:iota_l2sec_unwrap	9
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:709:12:send_l1_message	7
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:781:12:get_msg_by_id	3
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:843:12:get_l1_message_by_id	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:912:12:get_app_data	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:945:12:example_send_l2sec_protected_msg	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:1015:13:example_receive_l2sec_protected_msg_by_id	1
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:1066:12:example_receive_l2sec_protected_msg_by_index	22
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:1162:13:example_send_l2sec_protected_stream	6
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:1254:13:example_receive_l2sec_protected_stream	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:1303:6:example_send_receive_l2sec_protected_stream	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:1331:6:example_only_send_l2sec_protected_stream	2
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/Examples/l2sec_example.c:1357:6:example_only_receive_l2sec_protected_stream	1

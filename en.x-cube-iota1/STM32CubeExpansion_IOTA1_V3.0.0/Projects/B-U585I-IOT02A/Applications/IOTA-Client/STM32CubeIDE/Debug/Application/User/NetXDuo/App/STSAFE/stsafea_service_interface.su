@@ -1,0 +1,4 @@
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/STSAFE/stsafea_service_interface.c:123:9:I2C_Send	32	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/STSAFE/stsafea_service_interface.c:149:9:I2C_Recv	32	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/STSAFE/stsafea_service_interface.c:170:9:HW_IO_Init	32	static
+E:/Study/07.SSI_Korea/00.Course/00.IoT_Embedded/03.Project/en.x-cube-iota1/STM32CubeExpansion_IOTA1_V3.0.0/Projects/B-U585I-IOT02A/Applications/IOTA-Client/NetXDuo/App/STSAFE/stsafea_service_interface.c:197:8:StSafeA_HW_Probe	24	static
